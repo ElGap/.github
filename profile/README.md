@@ -18,10 +18,6 @@ We transform visionary ideas into world-class MVPs. Our approach is forged from 
 - 🎯 **Pre-MVP Kickstart** — Strategic validation before you build
 - 🔥 **Topical Authority Ignition Sprint** — SEO dominance for your niche
 
-**Our Track Record:** As a brand-new venture, we achieved organic Google #1 rankings for our core philosophy "Rapid MVP mindset" — complete with AI features — surrounded by paid ads. We did it through substance and precision, not chance.
-
-[Read how we did it →](https://elgap.rs/articles/anatomy-of-an-organic-takeover)
-
 ---
 
 ## 🛠️ Open Source Tools
@@ -86,12 +82,6 @@ opencode
 - 💼 **LinkedIn:** [ElGap](https://www.linkedin.com/company/elgap/)
 - 🐦 **X/Twitter:** [@ElGapRs](https://x.com/ElGapRs)
 - 📧 **Email:** hello@elgap.rs
-
----
-
-## 📜 License
-
-Our open source projects are released under the [MIT License](LICENSE).
 
 ---
 
