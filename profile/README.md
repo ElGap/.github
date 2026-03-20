@@ -14,10 +14,10 @@
 
 We transform visionary ideas into world-class MVPs. Our approach is forged from over a decade of experience in cybersecurity and digital creation:
 
-- ⚡ **Rapid MVP Development** — From concept to launch with precision
+- ⚡ **Rapid MVP Development** — From concept to launch with precision. Blueprint -> Prototype -> MVP.
 - 🎯 **Pre-MVP Kickstart** — Strategic validation before you build
 - 🔥 **Topical Authority Ignition Sprint** — SEO dominance for your niche
-- 
+  
 ---
 
 ## 📖 Our Philosophy
