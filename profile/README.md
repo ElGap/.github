@@ -17,49 +17,7 @@ We transform visionary ideas into world-class MVPs. Our approach is forged from 
 - ⚡ **Rapid MVP Development** — From concept to launch with precision
 - 🎯 **Pre-MVP Kickstart** — Strategic validation before you build
 - 🔥 **Topical Authority Ignition Sprint** — SEO dominance for your niche
-
----
-
-## 🛠️ Open Source Tools
-
-We believe in giving back to the AI community. Our open source projects focus on practical, privacy-first tools for LLM development.
-
-### [EdukaAI](https://github.com/ElGap/edukaai) — Dataset Management for LLM Fine-Tuning
-
-[![npm version](https://badge.fury.io/js/@elgap%2Fedukaai.svg)](https://badge.fury.io/js/@elgap%2Fedukaai)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**Privacy-first training data management** — collect, organize, and manage training data locally with zero cloud dependencies.
-
-**Key Features:**
-- 🏠 **100% Local** — SQLite database, no internet required
-- 📥 **Import & Export** — Alpaca, ShareGPT, JSONL, CSV formats
-- 🔴 **Live Capture API** — Real-time data collection from coding agents
-- ⭐ **Quality Tracking** — Rate and review training samples
-- 🎯 **Goal Management** — Set targets and track progress
-
-**Quick Start:**
-```bash
-npx @elgap/edukaai
-# Open http://localhost:3030
-```
-
----
-
-### [EdukaAI OpenCode](https://github.com/ElGap/edukaai-opencode) — Capture Conversations for Training
-
-[![npm version](https://img.shields.io/npm/v/@elgap/edukaai-opencode.svg)](https://www.npmjs.com/package/@elgap/edukaai-opencode)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-**OpenCode plugin** to automatically capture coding assistant conversations to EdukaAI for training data generation.
-
-**Quick Start:**
-```bash
-npm install @elgap/edukaai-opencode
-npx edukaai-opencode on
-opencode
-```
-
+- 
 ---
 
 ## 📖 Our Philosophy
@@ -73,15 +31,6 @@ opencode
 ### The Non-Negotiable Rule
 
 > *"When we are chasing a dream, there is no such thing as failure. There are only outcomes. There are only lessons. There is only the next, more precise, iteration."*
-
----
-
-## 🌐 Connect With Us
-
-- 🌐 **Website:** [elgap.rs](https://elgap.rs)
-- 💼 **LinkedIn:** [ElGap](https://www.linkedin.com/company/elgap/)
-- 🐦 **X/Twitter:** [@ElGapRs](https://x.com/ElGapRs)
-- 📧 **Email:** hello@elgap.rs
 
 ---
 
